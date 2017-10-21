@@ -1,0 +1,9 @@
+C:\Users\Michael\Desktop\Generador\Generador\bin\Debug\netcoreapp1.1\Generador.deps.json
+C:\Users\Michael\Desktop\Generador\Generador\bin\Debug\netcoreapp1.1\Generador.runtimeconfig.json
+C:\Users\Michael\Desktop\Generador\Generador\bin\Debug\netcoreapp1.1\Generador.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\Generador\Generador\bin\Debug\netcoreapp1.1\Generador.dll
+C:\Users\Michael\Desktop\Generador\Generador\bin\Debug\netcoreapp1.1\Generador.pdb
+C:\Users\Michael\Desktop\Generador\Generador\obj\Debug\netcoreapp1.1\Generador.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Generador\Generador\obj\Debug\netcoreapp1.1\Generador.AssemblyInfo.cs
+C:\Users\Michael\Desktop\Generador\Generador\obj\Debug\netcoreapp1.1\Generador.dll
+C:\Users\Michael\Desktop\Generador\Generador\obj\Debug\netcoreapp1.1\Generador.pdb
